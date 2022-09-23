@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\TommyWork\23thClass\bin\Debug\net6.0\23thClass.exe
+C:\Users\MDT\Desktop\TommyWork\23thClass\bin\Debug\net6.0\23thClass.deps.json
+C:\Users\MDT\Desktop\TommyWork\23thClass\bin\Debug\net6.0\23thClass.runtimeconfig.json
+C:\Users\MDT\Desktop\TommyWork\23thClass\bin\Debug\net6.0\23thClass.dll
+C:\Users\MDT\Desktop\TommyWork\23thClass\bin\Debug\net6.0\23thClass.pdb
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.AssemblyInfo.cs
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.dll
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\refint\23thClass.dll
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.pdb
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\23thClass.genruntimeconfig.cache
+C:\Users\MDT\Desktop\TommyWork\23thClass\obj\Debug\net6.0\ref\23thClass.dll
